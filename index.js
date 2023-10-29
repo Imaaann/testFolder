@@ -1,5 +1,5 @@
 const _ = require('lodash');
-const numbers = [33,44,566,12,-12,9];
+const numbers = [31,44,566,12,-12,9];
 
 
 
