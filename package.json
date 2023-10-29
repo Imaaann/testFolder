@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Imaaann/testFolder/issues"
   },
-  "homepage": "https://github.com/Imaaann/testFolder#readme"
+  "homepage": "https://github.com/Imaaann/testFolder#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
